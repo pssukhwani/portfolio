@@ -32,7 +32,7 @@
 * exit;
 
 ### Deploying: ###
-* login to google app engine account
+* login to google app engine account (I have use pythonanywhere)
 * Create New Project
 * Create New mysql Instance
 * Make sure you provide your current public ip address (just google what's my ip) so that you can access mysql on your local machine.
@@ -47,3 +47,8 @@
     * ./bin/gcloud init
     * ./bin/gcloud config set app/use_deprecated_preparation True
     * ./bin/gcloud app deploy
+
+
+### Link to the project: ###
+https://pssukhwani.pythonanywhere.com/home
+
