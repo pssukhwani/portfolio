@@ -48,7 +48,3 @@
     * ./bin/gcloud config set app/use_deprecated_preparation True
     * ./bin/gcloud app deploy
 
-
-### Link to the project: ###
-https://pssukhwani.pythonanywhere.com/home
-
